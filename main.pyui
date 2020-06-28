@@ -1,0 +1,93 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 35}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "textfield1",
+          "flex" : "",
+          "frame" : "{{19, 195}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "6B852BC4-4D31-4F2D-8776-79573DB3EE48",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 75}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "textfield2",
+          "frame" : "{{19, 195}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "578D1C15-38DB-430A-A8AE-EA615A1F077A",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 142}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "textfield3",
+          "frame" : "{{19, 195}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "BDB3113A-4C27-4E2F-A59E-DFA19D4E0E5B",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{25, 182}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "name" : "textfield4",
+          "frame" : "{{19, 195}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "9D46335E-00F2-4725-B48A-59C0C9251CD4",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
